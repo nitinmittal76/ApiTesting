@@ -1,0 +1,7 @@
+runnerClass,executionFlag,testObjective,PBI,testCase,latitude,longitude,postalCode,country
+ApiValidation,Y,getCurrentWeatherDataBasedonLatLog,AC1,Get Current Weather Data for multiple places in the world based on Lat and Lon,51.5072,-0.1276,NA,NA
+ApiValidation,Y,getCurrentWeatherDataBasedonLatLog,AC1,Get Current Weather Data for multiple places in the world based on Lat and Lon,38,-78.25,NA,NA
+ApiValidation,Y,getCurrentWeatherDataBasedonLatLog,AC1,Get Current Weather Data for multiple places in the world based on Lat and Lon,,-0.19087,NA,NA
+ApiValidation,Y,getCurrentWeatherDataBasedOnPostalCode,AC2,Get Current Weather Data for multiple places in the world based on postal  code,NA,NA,2067,AU
+ApiValidation,Y,getCurrentWeatherDataBasedOnPostalCode,AC2,Get Current Weather Data for multiple places in the world based on postal  code,NA,NA,28546,US
+ApiValidation,Y,getCurrentWeatherDataBasedOnPostalCode,AC2,Get Current Weather Data for multiple places in the world based on postal  code,NA,NA,,US
