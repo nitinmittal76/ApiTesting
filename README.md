@@ -8,9 +8,10 @@
 
 
 ## Test Data
-API.csv 
-Multiple row of test data can be added and executed
-Location : /src/test/resources/Test data files/Regression/
+#Location : /src/test/resources/Test data files/Regression/API.csv 
+
+#Multiple row of test data can be added and executed
+
 
 ## Report: index.html
 #Serenity Test Report will be created in folder C:\APIAutomationReports\Regression\Report_currentDateTime
